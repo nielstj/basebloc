@@ -1,0 +1,5 @@
+{
+    "greetTo": "Hello {name}",
+    "splash": "Splash",
+    "login": "login"
+}
